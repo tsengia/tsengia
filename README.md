@@ -4,7 +4,7 @@
 :pencil: I speak many lanuages, but my favorites are Python, C++, and JavaScript.  
 :duck: Don't underestimate my Java, SQL, and Bash abilities! I consider myself to be proficient in those too.  
 
-:question: If you are a recruiter, I recommend you take a look at my personal website [tsengia.net](https://tsengia.net), and look through my GitHub repositories.
+:question: If you are a recruiter, I recommend you look at my website [tsengia.net](https://tsengia.net), and look through my GitHub repositories.
 
 :running: If you're someone casually browsing, here are some things that might be of use to you:
 - [py-ujlaser](https://github.com/Student-Space-Programs-Laboratory/py-ujlaser) - A Python library for controlling Quantum Composers MicroJewel lasers.
