@@ -12,10 +12,9 @@
 - [DBusBlocks](https://github.com/tsengia/DBusBlocks) - A block based environment to build DBus introspection files, built with [Google Blockly](https://developers.google.com/blockly/)
 - [Bash1602Driver](https://github.com/tsengia/Bash1602Driver) - A program to control a 16x2 LCD on a Raspberry Pi 1, Model B. Written in pure Bash because I am crazy.
 
-:book: I am currently learning more about AWS. I've recently become an AWS certified Cloud Practitioner, and I'm thinking about pursuing another certification next.  
+:book: I am currently learning Rust, interested in [Logos](https://github.com/maciejhirsz/logos) and [Tauri](https://github.com/tauri-apps/tauri).
 
 :star: Things I find interesting:
-- [Deno](https://deno.land/) - A "replacement" for NodeJS with first class support for TypeScript.
+- [NixOS](https://nixos.org/) - An OS built on top of a functional package manager. Take a look at this [blog post by Flying Circus](https://flyingcircus.io/blog/thoughts-on-systems-management-methods/) for why I find it interesting.
 - [seL4](https://sel4.systems/) - A formally verified microkernel developed for high-reliability use cases.
-- [NixOS](https://nixos.org/) - An OS built on top of a functional package manager. Take a look at this [blog post by Flying Circus](https://flyingcircus.io/blog/thoughts-on-systems-management-methods/).
-- [Graph Neural Networks](https://en.wikipedia.org/wiki/Graph_neural_network) - Neural networks that work with graph-like data structures.
+- [Deno](https://deno.land/) - A "replacement" for NodeJS with first class support for TypeScript.
