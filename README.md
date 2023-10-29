@@ -12,6 +12,6 @@
 :book: I am currently learning more about AWS, TypeScript, and Rust.
 
 :star: Things I find interesting:
-- [Typia](https://typia.io/) - A TypeScript transformer that enables parsing TypeScript classes from JSON documents.
+- [Typia](https://typia.io/) - A TypeScript transformer that enables validation of JSON against class definitions.
 - [NixOS](https://nixos.org/) - An OS built on top of a functional package manager. Take a look at this [blog post by Flying Circus](https://flyingcircus.io/blog/thoughts-on-systems-management-methods/)<sub>[archived](https://web.archive.org/web/20230705043418/https://flyingcircus.io/blog/thoughts-on-systems-management-methods/)</sub> for why I find it interesting.
 - [seL4](https://sel4.systems/) - A formally verified microkernel developed for high-reliability use cases.
