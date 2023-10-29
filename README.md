@@ -2,11 +2,8 @@
 :wave: Hello! Welcome to my GitHub profile.  
 :heart: Writing software has been my passion for years, and I consider myself to be both a generalist and a specialist.  
 :pencil: I speak many lanuages; my favorites are Python, C++, and JavaScript.  
-:duck: Don't underestimate my Java, SQL, and Bash abilities! I consider myself to be proficient in those too.  
 
-:question: If you are a recruiter, I recommend you look at my website [tsengia.net](https://tsengia.net), and look through my GitHub repositories.
-
-:running: If you're someone casually browsing, here are some things that might be of use to you:
+:running: Here are some things that might be of use to you:
 - [py-ujlaser](https://github.com/Student-Space-Programs-Laboratory/py-ujlaser) - A Python library for controlling Quantum Composers MicroJewel lasers.
 - [JSGFKit++](https://github.com/tsengia/JSGFKit_Plus_Plus) - A C++ library for programmatically manipulating [Java Speech Grammar Format](https://www.w3.org/TR/2000/NOTE-jsgf-20000605/) files
 - [DBusBlocks](https://github.com/tsengia/DBusBlocks) - A block based environment to build DBus introspection files, built with [Google Blockly](https://developers.google.com/blockly/)
