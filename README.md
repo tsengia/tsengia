@@ -1,6 +1,6 @@
 # README: Tyler Sengia
 :wave: Hello! Welcome to my GitHub profile.  
-:heart: Writing software has been my passion for years, and I consider myself to be both a generalist and a specialist.  
+:heart: Writing software has been my passion for years.  
 :pencil: I speak many lanuages; my favorites are Python, C++, and JavaScript.  
 
 :running: Here are some things that might be of use to you:
