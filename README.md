@@ -1,7 +1,7 @@
 # README: Tyler Sengia
 :wave: Hello! Welcome to my GitHub profile.  
 :heart: I've been writing software for years.  
-:pencil: I speak many lanuages; my favorites are Python, C++, and JavaScript.  
+:pencil: I speak many lanuages including Python, Go, Java, JavaScript, SQL, Rust, C, C++, and Bash.
 
 :running: Here are some things that might be of use to you:
 - [py-ujlaser](https://github.com/Student-Space-Programs-Laboratory/py-ujlaser) - A Python library for controlling Quantum Composers MicroJewel lasers.
