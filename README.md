@@ -5,7 +5,7 @@
 
 :running: Here are some things that might be of use to you:
 - [py-ujlaser](https://github.com/Student-Space-Programs-Laboratory/py-ujlaser) - A Python library for controlling Quantum Composers MicroJewel lasers.
-- [JSGFKit++](https://github.com/tsengia/JSGFKit_Plus_Plus) - A C++ library for programmatically manipulating [Java Speech Grammar Format](https://www.w3.org/TR/2000/NOTE-jsgf-20000605/) files
+- [Web Piano](https://piano-app.tsengia.net/) - A web-based virtual piano. Built using MIDI.JS and Vue 2.
 - [DBusBlocks](https://github.com/tsengia/DBusBlocks) - A block based environment to build DBus introspection files, built with [Google Blockly](https://developers.google.com/blockly/)
 - [Bash1602Driver](https://github.com/tsengia/Bash1602Driver) - A program to control a 16x2 LCD on a Raspberry Pi 1, Model B. Written in pure Bash because why not?
 
